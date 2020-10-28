@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://1em0ntea.github.io</id>
+    <id>https://lemontea.link</id>
     <title>lemontea&apos;s blog</title>
-    <updated>2020-10-27T10:06:52.095Z</updated>
+    <updated>2020-10-28T02:21:09.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://1em0ntea.github.io"/>
-    <link rel="self" href="https://1em0ntea.github.io/atom.xml"/>
+    <link rel="alternate" href="https://lemontea.link"/>
+    <link rel="self" href="https://lemontea.link/atom.xml"/>
     <subtitle> 摸鱼选手 还在努力</subtitle>
-    <logo>https://1em0ntea.github.io/images/avatar.png</logo>
-    <icon>https://1em0ntea.github.io/favicon.ico</icon>
+    <logo>https://lemontea.link/images/avatar.png</logo>
+    <icon>https://lemontea.link/favicon.ico</icon>
     <rights>All rights reserved 2020, lemontea&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://1em0ntea.github.io/post/hello-gridea/</id>
-        <link href="https://1em0ntea.github.io/post/hello-gridea/">
+        <id>https://lemontea.link/post/hello-gridea/</id>
+        <link href="https://lemontea.link/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
